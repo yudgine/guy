@@ -1,0 +1,174 @@
+
+body {background-color: #fff;
+      transition: background-color 2s;
+      
+}
+
+
+.head {        border-radius: 60px;
+    width: 100px;
+    height: 100px;
+    margin: 85px 0px 0px 130px;
+    transition: background-color 2s;
+    position: absolute;
+    z-index: 10;
+    
+  
+}
+
+.butt {position:fixed;
+       left: 10px;
+       top: 10px;
+       z-index: 100;
+}
+
+.nack {    width: 43px;
+    height: 50px;
+    margin-top: 163px;
+    margin-left: 159px;
+    transition: background-color 2s;
+    position: absolute;
+    
+}
+
+.body {    width: 112px;
+    height: 145px;
+    margin-left: 122px;
+    margin-top: 196px;
+    border-radius: 17px;
+    transition: background-color 2s;
+    position: absolute;
+    
+}
+
+.left_1 {background-color: red;
+    border-radius: 17px;
+    width: 110px;
+    height: 28px;
+    margin-left: 045px;
+    margin-top: 221px;
+    transform: rotate(-34deg);
+    position: absolute;
+    
+}
+
+.left_2 {    background-color: red;
+    border-radius: 17px;
+    width: 110px;
+    height: 28px;
+    margin-left: 51px;
+    margin-top: 256px;
+    transform: rotate(13deg);
+    position: absolute;
+}
+
+.right_1 {background-color: red;
+    border-radius: 17px;
+    width: 110px;
+    height: 28px;
+    margin-left: 207px;
+    margin-top: 170px;
+    transform: rotate(-34deg);
+    position: absolute;
+}
+
+.right_2 { background-color: red;
+    border-radius: 17px;
+    width: 110px;
+    height: 28px;
+    margin-left: 231px;
+    margin-top: 103px;
+    transform: rotate(73deg);
+    position: absolute;
+}
+
+
+
+
+
+
+.left_leg_01 { background-color: red;
+    border-radius: 17px;
+    width: 130px;
+    height: 28px;
+    margin-left: 67px;
+    margin-top: 29px;
+    transform: rotate(-84deg);
+    position: absolute;
+    
+}
+
+.left_leg_02 {background-color: red;
+    border-radius: 17px;
+    width: 117px;
+    height: 28px;
+    margin-left: 74px;
+    margin-top: 130px;
+    transform: rotate(-97deg);
+    position: absolute;
+    
+}
+
+.right_leg_01 {background-color: red;
+    border-radius: 17px;
+    width: 130px;
+    height: 28px;
+    margin-left: 147px;
+    margin-top: 29px;
+    transform: rotate(-84deg);
+    position: absolute;
+    
+}
+
+.right_leg_02 {background-color: red;
+    border-radius: 17px;
+    width: 117px;
+    height: 28px;
+    margin-left: 154px;
+    margin-top: 130px;
+    transform: rotate(-97deg);
+    position: absolute;
+}
+
+.human_bady {width: 365px;
+    height: 345px;
+    margin: 0 auto;
+}
+
+.legs {width: 365px;
+    height: 204px;
+    margin: 0 auto;}
+
+
+
+
+
+
+
+
+
+  #red, #green, #blue {
+    float: left;
+    clear: left;
+    width: 300px;
+    margin: 10px 15px 10px 15px;
+  }
+  #swatch {
+    width: 120px;
+    height: 100px;
+    margin-top: 18px;
+    margin-left: 350px;
+    background-image: none;
+  }
+  #red .ui-slider-range { background: #ef2929; }
+  #red .ui-slider-handle { border-color: #ef2929; }
+  #green .ui-slider-range { background: #8ae234; }
+  #green .ui-slider-handle { border-color: #8ae234; }
+  #blue .ui-slider-range { background: #729fcf; }
+  #blue .ui-slider-handle { border-color: #729fcf; }
+
+
+  #draggable { width: 400px;
+    height: 500px;
+    margin: 0 auto;
+  }
